@@ -1,1 +1,2 @@
-# Cybersecurity
+# Professional statement 
+My name is **Daniel Njoku**, I am very dedicated and driven in **cybersecurity**, With a background in computer science as well as programming and a genuine interest in staying off emerging cyber threats,my main focus is on protecting sensitive information for organizations and ensuring their digital systems remain secure. I have a mindset problem solving abilities, with my analytical abilities to pay close attention to details. All of which are crucial qualities in the ever changing field of cybersecurity. My objective is to bring my skills and enthusiasm to a cybersecurity team learn from experienced professionals and continually enhance my knowledge to effectively combat cyber threats.
